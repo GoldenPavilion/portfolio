@@ -8,24 +8,24 @@ const NavBar = () => {
                     <div className="navbar-brand">Robert Cory Stine</div>
                 </div>
                 <div className="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                    <ul className="navbar-nav">
+                    <ul className="nav navbar-nav">
                         <li className="nav-item">
-                            <p className="nav-link">Resume</p>
+                            <a href="#" className="nav-link">About</a>
                         </li>
                         <li className="nav-item">
-                            <p className="nav-link">Projects</p>
+                            <a href="#" className="nav-link">Projects</a>
                         </li>
                         <li className="nav-item">
-                            <p className="nav-link">Skills</p>
+                            <a href="#" className="nav-link">Skills</a>
                         </li>
                         <li className="nav-item">
-                            <p className="nav-link">Blog</p>
+                            <a href="#" className="nav-link">Blog</a>
                         </li>
                         <li className="nav-item">
-                            <p className="nav-link">Github</p>
+                            <a href="#" className="nav-link">Github</a>
                         </li>
                         <li className="nav-item">
-                           <p className="nav-link">LinkedIn</p>
+                           <a href="#" className="nav-link">LinkedIn</a>
                         </li>
                     </ul>
                 </div>
