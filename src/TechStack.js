@@ -3,26 +3,26 @@ import React from 'react';
 const TechStack = () => {
     return(
         <div className="tech-stack">
-            <i class="devicon-javascript-plain"></i>
-            <i class="devicon-react-original-wordmark colored"></i>
-            <i class="devicon-redux-original colored"></i>
-            <i class="devicon-ruby-plain-wordmark colored"></i>
-            <i class="devicon-rails-plain-wordmark colored"></i>
-            <i class="devicon-html5-plain-wordmark"></i>
-            <i class="devicon-css3-plain-wordmark colored"></i>
-            <i class="devicon-bootstrap-plain-wordmark"></i>
-            <i class="devicon-npm-original-wordmark"></i>
-            <i class="devicon-fastapi-plain-wordmark colored"></i>
-            <i class="devicon-postgresql-plain-wordmark colored"></i>
-            <i class="devicon-sqlite-plain-wordmark colored"></i>
-            <i class="devicon-webpack-plain-wordmark colored"></i>
-            <i class="devicon-github-original-wordmark colored"></i>
-            <i class="devicon-vscode-plain-wordmark colored"></i>
-            <i class="devicon-slack-plain-wordmark colored"></i>
-            <i class="devicon-jira-plain-wordmark colored"></i>
-            <i class="devicon-trello-plain-wordmark colored"></i>
-            <i class="devicon-csharp-line-wordmark"></i>
-            <i class="devicon-unity-original-wordmark colored"></i>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="120" width="120" alt="js" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="120" width="120" alt="react" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="120" width="120" alt="redux" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" height="120" width="120" alt="ruby" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="120" width="120" alt="rails" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="120" width="120" alt="html" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="120" width="120" alt="css" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="120" width="120" alt="bootstrap" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="120" width="120" alt="npm" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain-wordmark.svg" height="120" width="120" alt="fastapi" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="120" width="120" alt="postgres" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="120" width="120" alt="sqlite" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" height="120" width="120" alt="webpack" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="120" width="120" alt="github" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="120" width="120" alt="vscode" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" height="120" width="120" alt="slack" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="120" width="120" alt="jira" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" height="120" width="120" alt="trello" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="120" width="120" alt="csharp" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" height="120" width="120" alt="unity" />
         </div>
     )
 }
