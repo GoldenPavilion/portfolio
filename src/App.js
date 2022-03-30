@@ -1,4 +1,5 @@
 import './App.css';
+import NavBar from './NavBar.js';
 import Portfolio from './Portfolio';
 import About from './About';
 import Projects from './Projects';
@@ -9,7 +10,7 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <Portfolio />
+        <NavBar />
         <Routes>
           <Route exact path="/" element={ <Portfolio /> } />
           <Route exact path="/about" element={ <About /> } />
