@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import headshot from './media/Headshot2Copy.jpg';
 
 const Main = () => {
 
@@ -6,7 +7,7 @@ const Main = () => {
 
     return(
         <div className="jumbotron">
-            <img src="media/Headshot2Copy.jpg" alt="A headshot of Cory!"/>
+            <img src={headshot} alt="A headshot of Cory!" width="200" height="280" />
             <h1
                 onMouseEnter={() => setTitle("And I Build Web Applications!")}
                 onMouseLeave={() => setTitle("Hi I'm Cory!")}
