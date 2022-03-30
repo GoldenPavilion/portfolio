@@ -7,6 +7,12 @@ function App() {
     <Router>
       <div className="App">
         <Portfolio />
+        <Routes>
+          <Route exact path="/" element={} />
+          <Route exact path="/about" element={} />
+          <Route exact path="/projects" elements={} />
+          <Route exact path="/skills" elements={} />
+        </Routes>
       </div>
     </Router>
   );
