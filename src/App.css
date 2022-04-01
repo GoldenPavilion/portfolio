@@ -52,4 +52,7 @@
   margin: auto;
   padding: 20px;
   width: 80%;
+  border-color: rgb(226, 219, 219);
+  border-style: groove;
+  border-radius: 5px;
 }
