@@ -46,3 +46,10 @@
 .logo {
   padding: 12px;
 }
+
+.about-text {
+  float: middle;
+  margin: auto;
+  padding: 20px;
+  width: 80%;
+}
