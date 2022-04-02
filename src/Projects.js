@@ -14,7 +14,8 @@ const Projects = () => {
                 <p className="card-text">A javascript application that curates fanmade merchandise across a variety of sites and services - like Etsy, Teefury and Redbubble.</p>
             </div>
             <div className="card">
-                
+                <h5 className="card-title"><Link to="https://github.com/GoldenPavilion/LoreScroll">LoreScroll</Link></h5>
+                <p className="card-text">A tool for authors, game masters, and storytellers of all types to organize the details of their world.</p>
             </div>
         </div>
     )
