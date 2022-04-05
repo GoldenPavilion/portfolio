@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 
 const Projects = () => {
     
@@ -16,7 +15,8 @@ const Projects = () => {
                 <p className="card-text">A javascript application that curates fanmade merchandise across a variety of sites and services - like Etsy, Teefury and Redbubble.</p>
             </div>
             <div className="card">
-                <h5 className="card-title"><Link to="https://github.com/GoldenPavilion/LoreScroll">LoreScroll</Link></h5>
+                <h3 className="card-title">LoreScroll</h3>
+                <p><a href="https://github.com/GoldenPavilion/LoreScroll">Github</a> | <a href="https://www.youtube.com/watch?v=l-ee5Js_-cU">Video Demo</a></p>
                 <p className="card-text">A javascript application that curates fanmade merchandise across a variety of sites and services - like Etsy, Teefury and Redbubble.</p>
             </div>
         </div>
