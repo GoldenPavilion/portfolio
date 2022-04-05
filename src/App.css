@@ -58,6 +58,9 @@
 }
 
 .card {
+  width: 33%;
+  margin: auto;
+  padding: 20px;
   border-style: groove;
   border-radius: 5px;
 }
