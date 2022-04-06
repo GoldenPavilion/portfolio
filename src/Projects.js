@@ -8,6 +8,12 @@ const Projects = () => {
                 <h3 className="card-title">BoardGameShelf</h3>
                 <p><a href="https://github.com/GoldenPavilion/react-redux-boardgames">Github</a> | <a href="https://www.youtube.com/watch?v=A637U6qeCj8">Video Demo</a></p>
                 <p className="card-text">BoardGameShelf is an easy to use tool to help you organize your table top games. Simply sign up for an account, search through our database of games and click "Add To Shelf" when you've found a game you've owned. Pretty soon you'll have a personalized collection of games with details to help you pick which one would be best for your next game night!</p>
+                <ul>
+                    <li>Utilized MVC pattern to model custom database schema with Ruby on Rails / ActiveRecord.</li>
+                    <li>Integrated backend API with JavaScript / React frontend using Redux middleware and thunk.</li>
+                    <li>Implemented routing on single page application using React Router, allowing for browser navigation.</li>
+                    <li>Leveraged Redux store to simplify and organize code into stateless components.</li>
+                </ul>
             </div>
             <div className="card">
                 <h3 className="card-title">FanMade</h3>
