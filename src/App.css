@@ -58,12 +58,12 @@
 }
 
 .projects {
-  width: 50%;
+  width: 80%;
   margin: auto;
 }
 
 .card {
-  width: 100%;
+  width: 66%;
   margin: auto;
   padding: 20px;
   border-style: groove;
