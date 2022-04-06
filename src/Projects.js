@@ -29,7 +29,13 @@ const Projects = () => {
             <div className="card">
                 <h3 className="card-title">LoreScroll</h3>
                 <p><a href="https://github.com/GoldenPavilion/LoreScroll">Github</a> | <a href="https://www.youtube.com/watch?v=l-ee5Js_-cU">Video Demo</a></p>
-                <p className="card-text">A javascript application that curates fanmade merchandise across a variety of sites and services - like Etsy, Teefury and Redbubble.</p>
+                <p className="card-text">An organizational tool for authors and storytellers to keep track of their characters, settings and stories.</p>
+                <ul>
+                    <li>Built out user authentication utilizing BCrypt for password encryption.</li> 
+                    <li>Implemented OAuth functionality to allow for safe login with Google accounts.</li>
+                    <li>Established validations for story, world and character models to prevent invalid data entry.</li>
+                    <li>Utilized scope methods within models to define means of filtering objects alphabetically or by date added.</li>
+                </ul>
             </div>
         </div>
     )
