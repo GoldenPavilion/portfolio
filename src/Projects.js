@@ -19,6 +19,12 @@ const Projects = () => {
                 <h3 className="card-title">FanMade</h3>
                 <p><a href="https://github.com/GoldenPavilion/js_project_fanmade">Github</a> | <a href="https://www.youtube.com/watch?v=CnQky8X72a8">Video Demo</a></p>
                 <p className="card-text">A javascript application that curates fanmade merchandise across a variety of sites and services - like Etsy, Teefury and Redbubble.</p>
+                <ul>
+                    <li>Designed Rails / ActiveRecord database using RESTful conventions to ensure efficiency and reusability.</li>
+                    <li>Implemented serializers through fast JSON:API to share attributes between products, fandoms and categories.</li>
+                    <li>Constructed Javascript frontend using an Object Oriented approach to encapsulate product data into classes.</li>
+                    <li>Retrieved data from backend using asynchronous fetch calls.</li>
+                </ul>
             </div>
             <div className="card">
                 <h3 className="card-title">LoreScroll</h3>
