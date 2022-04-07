@@ -3,6 +3,7 @@ import NavBar from './NavBar.js';
 import Portfolio from './Portfolio';
 import About from './About';
 import Projects from './Projects';
+import Work from './Work';
 import Skills from './Skills';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
