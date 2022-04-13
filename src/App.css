@@ -92,3 +92,9 @@
 .jumbo-section:first-child {
   width: 40%
 }
+
+.footer {
+  background-color:rgb(226, 219, 219);
+  margin: 20px;
+  padding: 20px;
+}
