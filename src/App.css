@@ -88,3 +88,7 @@
   display: flexbox;
   flex-direction: row;
 }
+
+.jumbo-section:first-child {
+  width: 40%
+}
