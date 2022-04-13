@@ -10,7 +10,7 @@ const Main = () => {
             <div className="jumbo-section">
                 <img src={headshot} alt="A headshot of Cory!" width="200" height="280" />
             </div>
-            <div className="kumbo-section">
+            <div className="jumbo-section">
                 <h1
                     onMouseEnter={() => setTitle("And I Build Web Applications!")}
                     onMouseLeave={() => setTitle("Hi I'm Cory!")}

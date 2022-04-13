@@ -78,3 +78,13 @@
 .work-list {
   text-align: left;
 }
+
+.jumbotron {
+  display: flex;
+}
+
+.jumbo-section {
+  width: 100%;
+  display: flexbox;
+  flex-direction: row;
+}
