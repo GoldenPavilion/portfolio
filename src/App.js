@@ -5,6 +5,7 @@ import About from './About';
 import Projects from './Projects';
 import Work from './Work';
 import Skills from './Skills';
+import Footer from './Footer';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
           <Route exact path="/work" element={ <Work /> } />
           <Route exact path="/skills" element={ <Skills /> } />
         </Routes>
+        <Footer />
       </div>
     </Router>
   );
