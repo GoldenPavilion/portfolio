@@ -4,8 +4,9 @@ const Work = () => {
     return(
         <div className="work-history">
             <div className="card">
-                <h3 className="card-title">Storyblocks</h3>
-                <p><a href="www.storyblocks.com">Website</a></p>
+                <h3 className="card-title"><a href="www.storyblocks.com">Storyblocks</a></h3>
+                <h5>Jan. 2015 - Jan. 2019</h5>
+                <h4>Senior Customer Service Manager</h4>
                 <ul className="work-list">
                     <li className="work-list-item">Advised Engineering and Design teams on common user misconceptions during sign-up and payment process to optimize flow improvements pre-launch.</li>
                     <li className="work-list-item">Gathered data on bugs and UI inconsistencies to improve customer experience, reducing refunds by 17%.</li>
