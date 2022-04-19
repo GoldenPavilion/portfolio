@@ -4,7 +4,6 @@ import Portfolio from './Portfolio';
 import About from './About';
 import Projects from './Projects';
 import Work from './Work';
-import Skills from './Skills';
 import Footer from './Footer';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
@@ -18,7 +17,6 @@ function App() {
           <Route exact path="/about" element={ <About /> } />
           <Route exact path="/projects" element={ <Projects /> } />
           <Route exact path="/work" element={ <Work /> } />
-          <Route exact path="/skills" element={ <Skills /> } />
         </Routes>
         <Footer />
       </div>

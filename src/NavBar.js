@@ -22,9 +22,6 @@ const NavBar = () => {
                             <Link to="/work" className="nav-link">Work History</Link>
                         </li>
                         <li className="nav-item">
-                            <Link to="/skills" className="nav-link">Skills</Link>
-                        </li>
-                        <li className="nav-item">
                             <a href="https://rcorystine.medium.com/" className="nav-link">Blog</a>
                         </li>
                     </ul>
