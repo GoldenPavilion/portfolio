@@ -27,12 +27,6 @@ const NavBar = () => {
                         <li className="nav-item">
                             <a href="https://rcorystine.medium.com/" className="nav-link">Blog</a>
                         </li>
-                        <li className="nav-item">
-                            <a href="https://www.github.com/GoldenPavilion" className="nav-link">Github</a>
-                        </li>
-                        <li className="nav-item">
-                            <a href="https://www.linkedin.com/in/robert-cory-stine/" className="nav-link">LinkedIn</a>
-                        </li>
                     </ul>
                 </div>
             </div>
