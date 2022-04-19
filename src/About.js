@@ -10,6 +10,19 @@ const About = () => {
                 <p>There is nothing quite like the endorphin rush I get when a new programming concept really sinks in or when a complex problem is solved with elegant design. Coding engages so many of my core values and interests. I am always looking for new ways to expand my toolset to become a stronger developer.</p> 
                 <p>With my background in writing and customer service management, I bring a unique perspective to any team. I spent much of my previous career at Storyblocks working with the most challenging customer cases, providing me insight into the psychology of users, as well as common pain points to look out for before a new feature ships. It also taught me to treat every interaction with patience, consideration, and empathy.</p>
             </div>
+            <div className="about-text">
+                <h3>Education</h3>
+                <div className="school">
+                    <h4>Flatiron School</h4>
+                    <h6>Graduated 2022</h6>
+                    <p>Software Engineering</p>
+                </div>
+                <div className="school">
+                    <h4>Towson University</h4>
+                    <h6>Graduated 2011</h6>
+                    <p>Bachelors of Science - Electronic Media and Film</p>
+                </div>
+            </div>
         </div>
     )
 }
