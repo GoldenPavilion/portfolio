@@ -6,6 +6,7 @@ const Work = () => {
             <div className="card">
                 <h3 className="card-title"><a href="www.storyblocks.com">Storyblocks</a></h3>
                 <h5>Jan. 2015 - Jan. 2019</h5>
+                <hr class="solid" />
                 <h4>Senior Customer Service Manager</h4>
                 <ul className="work-list">
                     <li className="work-list-item">Advised Engineering and Design teams on common user misconceptions during sign-up and payment process to optimize flow improvements pre-launch.</li>
@@ -17,6 +18,7 @@ const Work = () => {
             <div className="card">
                 <h3 className="card-title"><a href="www.ikea.com">IKEA Baltimore</a></h3>
                 <h5>Sept. 2011 - Jan. 2015</h5>
+                <hr class="solid" />
                 <h4>Self-Serve Coworker III</h4>
                 <ul className="work-list">
                     <li className="work-list-item">Assisted customers with complex orders: verifying stock, explaining product details and arranging for delivery.</li>
