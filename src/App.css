@@ -50,7 +50,8 @@
 .about-text {
   float: middle;
   margin: auto;
-  padding: 20px;
+  margin-top: 6px;
+  padding-bottom: 12px;
   width: 80%;
   border-color: rgb(226, 219, 219);
   border-style: groove;
