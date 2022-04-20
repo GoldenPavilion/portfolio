@@ -6,6 +6,7 @@ const Projects = () => {
         <div className="projects">
             <div className="card">
                 <h3 className="card-title">BoardGameShelf</h3>
+                <hr class="solid" />
                 <p><a href="https://github.com/GoldenPavilion/react-redux-boardgames">Github</a> | <a href="https://www.youtube.com/watch?v=A637U6qeCj8">Video Demo</a></p>
                 <p className="card-text">BoardGameShelf is an easy to use tool to help you organize your table top games. Simply sign up for an account, search through our database of games and click "Add To Shelf" when you've found a game you've owned. Pretty soon you'll have a personalized collection of games with details to help you pick which one would be best for your next game night!</p>
                 <ul className="proj-list">
@@ -17,6 +18,7 @@ const Projects = () => {
             </div>
             <div className="card">
                 <h3 className="card-title">FanMade</h3>
+                <hr class="solid" />
                 <p><a href="https://github.com/GoldenPavilion/js_project_fanmade">Github</a> | <a href="https://www.youtube.com/watch?v=CnQky8X72a8">Video Demo</a></p>
                 <p className="card-text">A JavaScript application that curates fanmade merchandise across a variety of sites and services - like Etsy, Teefury and Redbubble.</p>
                 <ul className="proj-list">
@@ -28,6 +30,7 @@ const Projects = () => {
             </div>
             <div className="card">
                 <h3 className="card-title">LoreScroll</h3>
+                <hr class="solid" />
                 <p><a href="https://github.com/GoldenPavilion/LoreScroll">Github</a> | <a href="https://www.youtube.com/watch?v=l-ee5Js_-cU">Video Demo</a></p>
                 <p className="card-text">An organizational tool for authors and storytellers to keep track of their characters, settings and stories.</p>
                 <ul className="proj-list">

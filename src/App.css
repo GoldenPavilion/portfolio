@@ -112,3 +112,7 @@
   margin: 4px;
   border-radius: 5px;
 }
+
+hr.solid {
+  border-top: 3px solid #bbb;
+}
